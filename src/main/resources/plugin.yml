@@ -1,0 +1,4 @@
+name: PlayGround
+version: 0.0.1
+main: dev.ekuinox.spigot_playground.Plugin
+api-version: "1.15"
