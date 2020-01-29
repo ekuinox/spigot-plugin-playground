@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="spigot-plugin-playground [file:/X:/work/repositories/0/spigot-plugin-playground/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../target/scala-2.13/classes" />
     <output-test url="file://$MODULE_DIR$/../../target/scala-2.13/test-classes" />
@@ -19,5 +28,9 @@
     <orderEntry type="library" name="sbt: commons-lang:commons-lang:2.6:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.guava:guava:21.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.google.code.gson:gson:2.8.0:jar" level="project" />
+    <orderEntry type="library" name="spigot-tips_2.13-0.1" level="project" />
+    <orderEntry type="library" name="spigot-tips_2.13-0.1 (2)" level="project" />
+    <orderEntry type="library" name="SpigotMagicWandTool-assembly-0.1" level="project" />
+    <orderEntry type="library" name="spigotmagicwandtool_2.13-0.1" level="project" />
   </component>
 </module>

@@ -7,6 +7,6 @@ import org.bukkit.event.player.PlayerInteractEvent
 class EventListener(plugin: Plugin) extends Listener {
   @EventHandler
   def onPlayerInteractEvent(event: PlayerInteractEvent): Unit = {
-    
+
   }
 }
